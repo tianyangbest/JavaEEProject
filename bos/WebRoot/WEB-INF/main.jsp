@@ -10,14 +10,6 @@
 <script type="text/javascript" src="./js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="./js/jquery.easyui.min.js"></script>
 
-<script type="text/javascript">
-	$(function() {
-		$(window).resize(function() {
-
-		});
-	});
-</script>
-
 </head>
 
 <body>
@@ -34,7 +26,6 @@
 				<div title="Title3">content3</div>
 				<div title="Title3">content3</div>
 			</div>
-
 
 		</div>
 		<div data-options="region:'center'">
